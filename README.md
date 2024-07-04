@@ -2,9 +2,15 @@
 
  Primeiro repositório aula git com github desktop
 
- Aula de git e github do curso em vídeo.
+
+
+ Aula git e github. 
 - Linha inserida aqui para testar no final!!!
-- Primeiro commit e push utilizando o github desktop.
+- Deletei linha superior.
 - Segundo commit após digitar a senha e fazer integração.
-- Deletado últimas três linhas para visualizar as mudanças ao inserir essa linha. E outra linha no início.
+- Inserido uma linha aqui
+- aqui
+- e
+- aqui
+
 
